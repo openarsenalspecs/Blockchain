@@ -1,0 +1,57 @@
+# Open Arsenal Blockchain Specifications
+
+The blockchain specifications describe a modular institutional infrastructure built around eliminating single points of control in both custody and transaction authority. Instead of relying on conventional private-key ownership, the system uses Distributed Multi-Party Computation (MPC) where key material is fragmented across multiple institution-controlled nodes. Because no complete key ever exists in a single location, the platform itself cannot independently sign or reconstruct assets. All operational activity, including transfers, approvals, and settlements, is enforced through policy-driven controls, structured audit logs, and role-based authorization layers rather than centralized custodial access.
+
+Beyond custody, the specifications extend into a broader framework for regulated digital asset infrastructure. This includes support for tokenizing real-world assets such as property, investment vehicles, and structured financial products, along with interoperability across multiple blockchain networks. The system is designed to operate across deployment environments including on-premise, sovereign cloud, and hybrid configurations, while embedding compliance automation, programmable settlement logic, and governance workflows directly into the infrastructure layer. Overall, the architecture prioritizes institutional control, regulatory alignment, and cross-chain portability while maintaining cryptographic verification, transparency, and auditability without dependence on any single vendor or centralized operator.
+
+# Blockchain Specs:
+
+- **Chainly**  
+  [https://roxanneardary.com/chainly/](https://roxanneardary.com/chainly/)  
+  An open-source AI-powered data flow intelligence system that traces and visualizes how user data moves across services after login events.   
+
+- **CommonVote System**  
+  [https://roxanneardary.com/commonvote-system/](https://roxanneardary.com/commonvote-system/)  
+  A distributed system for trusted voting that uses encryption, tokenization, and blockchain-based verification.  
+  It supports secure and jurisdiction-adaptable elections.  
+
+- **FarmLedger**  
+  [https://roxanneardary.com/farmledger/](https://roxanneardary.com/farmledger/)  
+  An open-source platform for AI-powered inventory management, pre-orders, and secure direct-to-consumer commerce.   
+
+- **LuminaMine**  
+  [https://roxanneardary.com/luminamine/](https://roxanneardary.com/luminamine/)  
+  An open-source, AI-assisted multi-coin cryptocurrency miner designed for efficiency, transparency, and community-driven innovation.  
+
+- **Magistrate Title Services**  
+  [https://roxanneardary.com/magistrate-title-services/](https://roxanneardary.com/magistrate-title-services/)  
+  An open-source blockchain and AI-powered platform that modernizes real estate title, escrow, and verification systems.    
+
+- **OriginScope**  
+  [https://roxanneardary.com/originscope/](https://roxanneardary.com/originscope/)  
+  An open-source crypto intelligence platform that maps cryptocurrency origins, founders, white papers, social influence, and risk history.    
+
+- **QuantumLock**  
+  [https://roxanneardary.com/quantumlock/](https://roxanneardary.com/quantumlock/)  
+  A quantum-resistant Bitcoin protocol securing digital assets against future quantum computing threats.    
+
+- **QuantumPay**  
+  [https://roxanneardary.com/quantumpay/](https://roxanneardary.com/quantumpay/)  
+  An open-source, next-generation payment network enabling fast, secure, and transparent global transactions.  
+
+## License & Notice Requirements
+
+Open Arsenal Blockchain Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
+By contributing to any project, you agree that your contributions will also be released under this license.
+
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
+  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
