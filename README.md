@@ -21,7 +21,7 @@ Beyond custody, the specifications extend into a broader framework for regulated
 
 # Blockchain Specs:
 
-- **Chainly**  
+- [**Chainly Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/39fa0c10225664d1420e1aab164d2350c0d2f3a9/Chainly.md)    
   [https://roxanneardary.com/chainly/](https://roxanneardary.com/chainly/)  
   An open-source AI-powered data flow intelligence system that traces and visualizes how user data moves across services after login events.   
 
