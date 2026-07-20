@@ -46,7 +46,7 @@ Beyond custody, the specifications extend into a broader framework for regulated
   [https://roxanneardary.com/originscope/](https://roxanneardary.com/originscope/)  
   An open-source crypto intelligence platform that maps cryptocurrency origins, founders, white papers, social influence, and risk history.    
 
-- **QuantumLock**  
+- [**QuantumLock Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/ca13719205970e7c83eb1977030581d2f4f20eb9/QuantumLock.md)    
   [https://roxanneardary.com/quantumlock/](https://roxanneardary.com/quantumlock/)  
   A quantum-resistant Bitcoin protocol securing digital assets against future quantum computing threats.    
 
