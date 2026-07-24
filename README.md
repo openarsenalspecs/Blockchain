@@ -19,6 +19,8 @@ The blockchain specifications describe a modular institutional infrastructure bu
 
 Beyond custody, the specifications extend into a broader framework for regulated digital asset infrastructure. This includes support for tokenizing real-world assets such as property, investment vehicles, and structured financial products, along with interoperability across multiple blockchain networks. The system is designed to operate across deployment environments including on-premise, sovereign cloud, and hybrid configurations, while embedding compliance automation, programmable settlement logic, and governance workflows directly into the infrastructure layer. Overall, the architecture prioritizes institutional control, regulatory alignment, and cross-chain portability while maintaining cryptographic verification, transparency, and auditability without dependence on any single vendor or centralized operator.
 
+All specifications are released under the GNU Affero General Public License v3.0 or later (AGPL-3.0+) and may be freely used with the required attribution provisions outlined in Section 7 of the license. Organizations seeking attribution-free commercial deployment may obtain a Specification Branding License, with pricing based on the specification category, deployment scale, and the size of the environment in which it is implemented.
+
 # Blockchain Specs:
 
 - [**Chainly Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/39fa0c10225664d1420e1aab164d2350c0d2f3a9/Chainly.md)    
