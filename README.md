@@ -40,7 +40,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/luminamine/](https://roxanneardary.com/luminamine/)  
   An open-source, AI-assisted multi-coin cryptocurrency miner designed for efficiency, transparency, and community-driven innovation.  
 
-- **Magistrate Title Services**  
+- [**Magistrate Title Services Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/d9238bb68121b73472933c426ce9528d9267da15/Magistrate%20Title%20Services.md)    
   [https://roxanneardary.com/magistrate-title-services/](https://roxanneardary.com/magistrate-title-services/)  
   An open-source blockchain and AI-powered platform that modernizes real estate title, escrow, and verification systems.    
 
