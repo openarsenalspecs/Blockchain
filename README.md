@@ -36,7 +36,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/farmledger/](https://roxanneardary.com/farmledger/)  
   An open-source platform for AI-powered inventory management, pre-orders, and secure direct-to-consumer commerce.   
 
-- **LuminaMine**  
+- [**LuminaMine Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/c9b554ec0a6f60310acf7870409f0efea2d17fa0/LuminaMine.md)    
   [https://roxanneardary.com/luminamine/](https://roxanneardary.com/luminamine/)  
   An open-source, AI-assisted multi-coin cryptocurrency miner designed for efficiency, transparency, and community-driven innovation.  
 
