@@ -52,7 +52,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/quantumlock/](https://roxanneardary.com/quantumlock/)  
   A quantum-resistant Bitcoin protocol securing digital assets against future quantum computing threats.    
 
-- **QuantumPay**  
+- [**QuantumPay Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/33f56dfe4b24c8806bdc4e65dada18781c735d0c/QuantumPay.md)    
   [https://roxanneardary.com/quantumpay/](https://roxanneardary.com/quantumpay/)  
   An open-source, next-generation payment network enabling fast, secure, and transparent global transactions.
 
