@@ -27,7 +27,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/chainly/](https://roxanneardary.com/chainly/)  
   An open-source AI-powered data flow intelligence system that traces and visualizes how user data moves across services after login events.   
 
-- **CommonVote System**  
+- [**CommonVote System Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/f835bedc38f4c2e65017a9af522ea93cdf008866/CommonVote%20System.md)    
   [https://roxanneardary.com/commonvote-system/](https://roxanneardary.com/commonvote-system/)  
   A distributed system for trusted voting that uses encryption, tokenization, and blockchain-based verification.  
   It supports secure and jurisdiction-adaptable elections.  
