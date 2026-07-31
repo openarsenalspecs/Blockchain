@@ -44,7 +44,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/magistrate-title-services/](https://roxanneardary.com/magistrate-title-services/)  
   An open-source blockchain and AI-powered platform that modernizes real estate title, escrow, and verification systems.    
 
-- **OriginScope**  
+- [**OriginScope Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/517df240a825ed8125f61d3e34db48bb7cf31bcf/OriginScope.md)    
   [https://roxanneardary.com/originscope/](https://roxanneardary.com/originscope/)  
   An open-source crypto intelligence platform that maps cryptocurrency origins, founders, white papers, social influence, and risk history.    
 
