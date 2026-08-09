@@ -34,7 +34,11 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 - [**FarmLedger Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/78c57cf375943e22fc5dc8faa792950f2158dd3e/FarmLedger.md)    
   [https://roxanneardary.com/farmledger/](https://roxanneardary.com/farmledger/)  
-  An open-source platform for AI-powered inventory management, pre-orders, and secure direct-to-consumer commerce.   
+  An open-source platform for AI-powered inventory management, pre-orders, and secure direct-to-consumer commerce.
+
+- [**LoanRenew Module Specification**]
+[https://roxanneardary.com/loanrenew/](https://roxanneardary.com/loanrenew/)  
+LoanRenew is an open source specification for deterministic refinancing with renewable capital, combining transparent lending, automated reinvestment, investor participation, mortgage and title services, and public-record verification. Its modular architecture provides deterministic profit allocation, tax reserve reconciliation, investor dividend elections, capital accounting, and comprehensive financial transparency.
 
 - [**LuminaMine Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/c9b554ec0a6f60310acf7870409f0efea2d17fa0/LuminaMine.md)    
   [https://roxanneardary.com/luminamine/](https://roxanneardary.com/luminamine/)  
