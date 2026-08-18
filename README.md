@@ -32,7 +32,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   A distributed system for trusted voting that uses encryption, tokenization, and blockchain-based verification.  
   It supports secure and jurisdiction-adaptable elections.  
 
-- [**FarmLedger Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/78c57cf375943e22fc5dc8faa792950f2158dd3e/FarmLedger.md)    
+- [**FarmLedger Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/aac6b0f6e362cb631a934431a8f338b450c42478/FarmLedger.md)   
   [https://roxanneardary.com/farmledger/](https://roxanneardary.com/farmledger/)  
   An open-source platform for AI-powered inventory management, pre-orders, and secure direct-to-consumer commerce.
 
