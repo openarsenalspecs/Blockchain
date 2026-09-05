@@ -36,6 +36,10 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/farmledger/](https://roxanneardary.com/farmledger/)  
   An open-source platform for AI-powered inventory management, pre-orders, and secure direct-to-consumer commerce.
 
+- [**LightQuest Specification**](https://github.com/openarsenalspecs/Blockchain/blob/c56ab143e08b15c7b4ab2fd211d785b809cf5599/LightQuest.md)  
+[https://roxanneardary.com/lightquest/](https://roxanneardary.com/lightquest/)  
+LightQuest is a real-world adventure game where players venture beneath the surface, confront Shadow figures, uncover powerful loot, and complete cooperative quests. Persistent worlds, unique digital assets, federated communities, and a player-driven economy create an evolving adventure where exploration and discovery have lasting consequences.  
+
 - [**LoanRenew Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/59279f0d68431e0db11d92dc2a27c5f81484aa4f/LoanRenew.md)  
 [https://roxanneardary.com/loanrenew/](https://roxanneardary.com/loanrenew/)  
 LoanRenew is an open source specification for deterministic refinancing with renewable capital, combining transparent lending, automated reinvestment, investor participation, mortgage and title services, and public-record verification. Its modular architecture provides deterministic profit allocation, tax reserve reconciliation, investor dividend elections, capital accounting, and comprehensive financial transparency.
