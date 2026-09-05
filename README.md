@@ -70,6 +70,8 @@ LoanRenew is an open source specification for deterministic refinancing with ren
 
 Buy the Basket: [https://roxanneardary.com/blockchain/](https://roxanneardary.com/blockchain/)  
 
+Purchasing a Specification Basket grants the purchaser a perpetual license for attribution-free use of every existing specification included within that category, as well as any additional specifications subsequently added to the category.
+
 ---
 
 ## License & Notice Requirements
